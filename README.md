@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chicogborba
-- 👀 I’m interested in ...
+- 👀 I’m interested in UX Design, Neural networks and front-end development
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me : chicogborba@gmail.com
 
