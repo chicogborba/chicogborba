@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @chicogborba
-- 👀 I’m interested in Neural networks, Data Science, UX Design and front-end development
-- 🌱 I’m currently learning TensorFlow
 - 📫 How to reach me : chicogborba@gmail.com 
 
 <!---
