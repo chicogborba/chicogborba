@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Francisco Borba</h1>
-- 👨‍💻 All of my projects are available at [https://portifolio-new-topaz.vercel.app/](https://portifolio-new-topaz.vercel.app/)
+
+- 👨‍💻 All of my projects are available at https://portifolio-new-topaz.vercel.app/
 
 - 📫 How to reach me **f.grudzinski@edu.pucrs.br**
 
 ****
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chicogborba&show_icons=true&theme=dracula&locale=en&layout=compact" alt="chicogborba" /></p>
+<p align="center" style="margin-top:30px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chicogborba&show_icons=true&theme=dracula&locale=en&layout=compact" alt="chicogborba" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chicogborba&show_icons=true&theme=dracula&locale=en" alt="chicogborba" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chicogborba&show_icons=true&theme=dracula&locale=en" alt="chicogborba" />
+</p>
 
 ****
 
