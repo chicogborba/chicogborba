@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Borba</h1>
 
-- 👨‍💻 All of my projects are available at franciscoborba.tech
+- 👨‍💻 All of my projects are available at [franciscoborba.tech](https://www.franciscoborba.tech/)
 
 - 📫 How to reach me **f.grudzinski@edu.pucrs.br**
 
